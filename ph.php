@@ -2,7 +2,7 @@
 class ogrenci
 {
 public$adi;
-puclic$bolum;
+public$bolum;
 public$yas;
 fuction yazdir();
 { 
